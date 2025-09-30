@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/go-vodcotqo:azure-5080494620a23a3a8ef8b9dd339e0fcf3110f920
+        - image: quay.io/tsscui/go-vodcotqo:azure-68eddb3871ff29342944200bfee2d21a27b62950
           name: container-image
